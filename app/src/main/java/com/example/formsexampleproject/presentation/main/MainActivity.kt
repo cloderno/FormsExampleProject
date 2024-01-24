@@ -6,6 +6,7 @@ import android.widget.TextView
 import androidx.lifecycle.lifecycleScope
 import com.example.formsexampleproject.R
 import com.example.formsexampleproject.core.ConnectivityObserver
+import com.example.formsexampleproject.core.ImageLoader
 import kotlinx.coroutines.launch
 
 class MainActivity : AppCompatActivity() {
